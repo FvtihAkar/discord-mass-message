@@ -35,7 +35,7 @@ while len(fails) != 0:
         res = req.post(url.replace("-id-",user),data=json,headers=headers).status_code
         if res != 200:
             print(f"failed to send message to : {user}")
-            fails.append(user.id)
+            fails.append(user)
         else:
             print(f"message sent to : {user}")
             fails.remove(user)
