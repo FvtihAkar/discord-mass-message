@@ -8,3 +8,7 @@
 # ! Todo !
 - Add proxy,
 - Add thread
+
+
+
+[! https://discord.gg/beatmaker] [Miskids]
