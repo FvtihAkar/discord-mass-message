@@ -1,4 +1,7 @@
 {
-    "token": "",
-    "message": "test"
+    "tokens": [""],
+    "message": "test",
+    "target": "single",
+    "id": "",
+    "delay": 100
 }
