@@ -11,4 +11,4 @@
 
 
 
-[! https://discord.gg/beatmaker] [Miskids]
+https://discord.gg/beatmaker
